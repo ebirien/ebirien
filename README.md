@@ -1,6 +1,6 @@
 ebirien / README.md
 
-👨‍💻 Data analytics enthusiast
+👨‍💻 Transitioning from software developer to data analyst
 
 📜 [AWS](https://www.credly.com/badges/8ec03a72-563b-42b7-a040-3e14375623db) certified cloud user
 
