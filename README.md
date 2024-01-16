@@ -1,5 +1,13 @@
 ### Hi there 👋
+👨‍💻 Data analytics enthusiast
 
+📜 [AWS](https://www.credly.com/badges/8ec03a72-563b-42b7-a040-3e14375623db) certified cloud user
+
+📜 [GIAC](https://www.credly.com/badges/e61ac451-1f4a-4361-a4eb-241de715446a) certified cybersecurity analyst
+
+🤩 [DNN](https://www.credly.com/badges/e61ac451-1f4a-4361-a4eb-241de715446a) Software enthusiast
+
+📚 Developer of [Africa Research Database](https://www.afredat.com)
 <!--
 **ebirien/ebirien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
