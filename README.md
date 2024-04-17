@@ -2,7 +2,7 @@
 
 📜 [MS](https://learn.microsoft.com/en-gb/users/ebiriennte-5518/credentials/e134da77a7009fc7) certified power bi analyst associate
 
-📜 [AWS](https://www.credly.com/badges/8ec03a72-563b-42b7-a040-3e14375623db) certified solutions acrchitect associate
+📜 [AWS](https://www.credly.com/badges/8ec03a72-563b-42b7-a040-3e14375623db) certified solutions architect associate
 
 📜 [GIAC](https://www.credly.com/badges/e61ac451-1f4a-4361-a4eb-241de715446a) certified cybersecurity analyst
 
