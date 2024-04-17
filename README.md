@@ -1,6 +1,6 @@
 👨‍💻 Transitioning from software developer to data analyst
 
-📜 [MS](https://learn.microsoft.com/en-gb/users/ebiriennte-5518/credentials/e134da77a7009fc7)) certified power bi analyst associate
+📜 [MS](https://learn.microsoft.com/en-gb/users/ebiriennte-5518/credentials/e134da77a7009fc7) certified power bi analyst associate
 
 📜 [AWS](https://www.credly.com/badges/8ec03a72-563b-42b7-a040-3e14375623db) certified solutions acrchitect associate
 
